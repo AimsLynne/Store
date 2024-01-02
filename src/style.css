@@ -40,7 +40,7 @@ h2 {
   transition: all 100ms ease-in-out;
 }
 .grid img:hover {
-  transform: scale(1.5);
+  transform: scale(1.4);
 }
 
 footer {
@@ -96,4 +96,10 @@ footer .social-links a {
 footer .social-links a:hover {
   color: white;
   background: black;
+}
+
+.creator {
+  font-size: small;
+  text-align: center;
+  margin-top: 20px;
 }
