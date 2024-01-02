@@ -70,7 +70,7 @@ footer .btn {
 }
 
 footer .btn:hover {
-  background-color: rgb(27, 44, 41);
+  background-color: rgb(4, 7, 6);
 }
 
 footer .email-link {
@@ -95,5 +95,5 @@ footer .social-links a {
 
 footer .social-links a:hover {
   color: white;
-  background: rgb(16, 58, 51);
+  background: black;
 }
